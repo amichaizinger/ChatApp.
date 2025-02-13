@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sharo\\source\\repos\\ChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|c:\\users\\sharo\\source\\repos\\chatapp\\chatapp\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|c:\\users\\sharo\\source\\repos\\chatapp\\chatapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|c:\\users\\sharo\\source\\repos\\chatapp\\chatapp\\communication\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\communication\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|c:\\users\\sharo\\source\\repos\\chatapp\\chatapp\\communication\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\communication\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 314,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\gitignore.txt",
+              "RelativeDocumentMoniker": "ChatApp\\gitignore.txt",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\gitignore.txt",
+              "RelativeToolTip": "ChatApp\\gitignore.txt",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-13T22:02:07.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\Communication\\Server.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Communication\\Server.cs",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\Communication\\Server.cs",
+              "RelativeToolTip": "ChatApp\\Communication\\Server.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwCgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:30:58.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\Communication\\Client.cs",
+              "RelativeDocumentMoniker": "ChatApp\\Communication\\Client.cs",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\Communication\\Client.cs",
+              "RelativeToolTip": "ChatApp\\Communication\\Client.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:19:26.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T18:35:17.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
