@@ -192,9 +192,7 @@ Icon?
 
 # Visual Studio 2014 CTP
 **/*.sln.ide
-echo .vs/ >> .gitignore
-echo bin/ >> .gitignore
-echo obj/ >> .gitignore
+
 
 
 # Visual Studio temp something

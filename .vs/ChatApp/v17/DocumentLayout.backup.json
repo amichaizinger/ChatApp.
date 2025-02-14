@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sharo\\source\\repos\\ChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|c:\\users\\sharo\\source\\repos\\chatapp\\chatapp\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|c:\\users\\sharo\\source\\repos\\chatapp\\chatapp\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|solutionrelative:chatapp\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{262603FA-344B-42FF-A95D-A0CDB835B220}|ChatApp\\ChatApp.csproj|c:\\users\\sharo\\source\\repos\\chatapp\\chatapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,18 +26,26 @@
       "DocumentGroups": [
         {
           "DockedHeight": 314,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "gitignore.txt",
-              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\gitignore.txt",
-              "RelativeDocumentMoniker": "ChatApp\\gitignore.txt",
-              "ToolTip": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\gitignore.txt",
-              "RelativeToolTip": "ChatApp\\gitignore.txt",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAAMUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\.gitignore",
+              "RelativeDocumentMoniker": "ChatApp\\.gitignore",
+              "ToolTip": "C:\\Users\\sharo\\source\\repos\\ChatApp\\ChatApp\\.gitignore",
+              "RelativeToolTip": "ChatApp\\.gitignore",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAAMQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-13T22:02:07.475Z",
               "EditorCaption": ""
             },
@@ -51,8 +59,7 @@
               "RelativeToolTip": "ChatApp\\Communication\\Server.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAzwCgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T21:30:58.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-13T21:30:58.614Z"
             },
             {
               "$type": "Document",
@@ -64,20 +71,7 @@
               "RelativeToolTip": "ChatApp\\Communication\\Client.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T21:19:26.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2025-02-13T21:19:26.673Z"
             },
             {
               "$type": "Document",
@@ -89,8 +83,11 @@
               "RelativeToolTip": "ChatApp\\MainWindow.xaml.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T18:35:17.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-12T18:35:17.615Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
