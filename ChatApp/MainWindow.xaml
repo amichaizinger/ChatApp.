@@ -7,6 +7,24 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <!-- Status Label to show connection status -->
+        <Label Name="StatusLabel" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,20,0,0" FontSize="16" />
 
+        <!-- Button to start client connection -->
+        <Button Name="StartClientButton" Content="Connect to Server" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="40" Click="StartClient_Click" />
+
+        <!-- ListBox to display messages -->
+        <ListBox Name="MessagesListBox" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="20,80,20,0" Height="250" FontSize="14" IsEnabled="True" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <!-- Each message can be displayed as a ListBoxItem -->
+        </ListBox>
+
+        <!-- TextBox to input messages -->
+        <TextBox Name="MessageTextBox" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Margin="20,0,80,20" Height="40" FontSize="14" VerticalContentAlignment="Center" />
+
+        <!-- Button to send the message -->
+        <Button Name="SendMessageButton" Content="Send" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="0,0,20,20" Width="80" Height="40" Click="SendMessageButton_Click" />
+
+        <!-- Optional additional UI elements -->
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,50" FontSize="12" Foreground="Gray">ChatApp</TextBlock>
     </Grid>
 </Window>

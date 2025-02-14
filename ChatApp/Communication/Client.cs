@@ -9,7 +9,7 @@ namespace ChatApp.NewFolder
     internal class Client : ICommunication
     {
         private readonly IPEndPoint _ipEndPoint;
-        private readonly IPAddress _ipAddress = IPAddress.Any;  // This listens on all available interfaces (local network or internet)
+        private readonly IPAddress _ipAddress = IPAddress.Parse("127.0.0.1");  // Connect to local server
         private readonly int _port = 1100;
 
         public Client()
@@ -21,14 +21,15 @@ namespace ChatApp.NewFolder
         {
             using Socket clientSocket = new(_ipEndPoint.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
             
+            // Establish connection to the server
+            await clientSocket.ConnectAsync(_ipEndPoint);
+            Console.WriteLine("Connected to the server.");
+
             while (true)
             { 
                 try
                 {
-                    // Establish connection to the server
-                    await clientSocket.ConnectAsync(_ipEndPoint);
-                    Console.WriteLine("Connected to the server.");
-
+                   
                     // Send a message to the server
                     Console.WriteLine("write something");
                     var message = Console.ReadLine();

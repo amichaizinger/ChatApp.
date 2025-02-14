@@ -13,12 +13,13 @@ namespace ChatApp.NewFolder
     internal class Server : ICommunication
     {
         private readonly IPEndPoint _iPEndPoint;
-        private readonly IPAddress _ipAddress = IPAddress.Any;  // This listens on all available interfaces (local network or internet)
-        private readonly int port = 1100;
+        private readonly IPAddress _ipAddress = IPAddress.Parse("127.0.0.1");
+        private readonly int _port = 1100;
 
         public Server()
         {
-            _iPEndPoint = new IPEndPoint(_ipAddress, port);
+            // Check for valid IP address and port
+            _iPEndPoint = new IPEndPoint(_ipAddress, _port);  // Ensure this is correctly set
         }
         public async Task RunAsync()
         {
